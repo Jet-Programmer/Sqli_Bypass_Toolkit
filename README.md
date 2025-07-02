@@ -1,4 +1,6 @@
--- SQLi Bypass Toolkit (sqli_bypass)
+-- 🛡️ SQLi Bypass Toolkit (sqli_bypass)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Jet-Programmer/sqli_bypass_toolkit)
+
 Author: Sanctification Yeboah (@Jet-Programmer)
 
 Automated SQL Injection login bypass tool with payload rotation, session hijack support, and flag scraping from post-login portals.
